@@ -7,7 +7,7 @@ package com.mycompany.abstractfactorypattern;
 
 /**
  *
- * @author sp21-bse-039
+ * @author Rana Saim Ali
  */
 public abstract class AbstractFactory {
    abstract Shape getShape(String shapeType) ;
